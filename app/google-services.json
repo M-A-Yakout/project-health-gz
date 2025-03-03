@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339137805388",
+    "project_id": "finalhealthgz",
+    "storage_bucket": "finalhealthgz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339137805388:android:df7f4c1333ccbbc25f48e9",
+        "android_client_info": {
+          "package_name": "com.example.james"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TBRFTN87CPZ0D4qLiF7de2_TBfJq4q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339137805388:android:1faa2fb35b5b63be5f48e9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TBRFTN87CPZ0D4qLiF7de2_TBfJq4q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
