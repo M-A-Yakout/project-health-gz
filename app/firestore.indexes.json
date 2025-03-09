@@ -1,0 +1,18 @@
+{
+  "index": [
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isApproved",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isRejected",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
