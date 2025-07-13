@@ -91,9 +91,3 @@ project-health-gz/
 - **Code Quality**: ktlint + Detekt + Kover  
 
 ---
-
-## 🤝 Contributing
-We welcome contributions!  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) and open an issue before submitting PRs.
-
-
